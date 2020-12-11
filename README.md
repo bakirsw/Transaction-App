@@ -1,4 +1,4 @@
-An Application for the private Transaction.
+An Application for the private Transaction for both ios and android.
 
 (Still not finished)
 

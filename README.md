@@ -1,3 +1,8 @@
+An Application for the private Transaction.
+
+(Still not finished)
+
+
 # transactionapp
 
 A new Flutter application.
